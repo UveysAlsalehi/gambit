@@ -29,6 +29,7 @@ dependencies = [
     "numpy",
     "scipy",
     "pandas",
+    "pycddlib>=3.0",
 ]
 
 [project.optional-dependencies]

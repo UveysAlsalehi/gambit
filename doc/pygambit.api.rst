@@ -104,6 +104,7 @@ Information about the game
    Game.is_const_sum
    Game.is_tree
    Game.is_perfect_recall
+   Game.is_degenerate
    Game.players
    Game.outcomes
    Game.min_payoff
